@@ -111,7 +111,7 @@ a {
 }
 
 .paralax {
-  background-image: url('Latar.png');
+  background-image: url("Latar.png");
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;

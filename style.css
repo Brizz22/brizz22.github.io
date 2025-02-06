@@ -16,11 +16,7 @@ header {
   gap: 10px;
 }
 
-.logo {
-  margin-right: auto;
-  display: flex;
-  gap: 6pxpx;
-}
+
 
 .logo-icon {
   width: 35px;

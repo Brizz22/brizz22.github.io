@@ -1,2 +1,2 @@
-# brizz22.github.io
-Websitenya Noval
+# webpalsnopal.github.io
+website noval 2025

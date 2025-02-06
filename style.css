@@ -17,6 +17,8 @@ header {
 }
 
 .logo {
+  width: 35px;
+  height: 35px;
   margin-right: auto;
   display: flex;
   gap: 6px;

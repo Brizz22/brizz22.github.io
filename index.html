@@ -5,6 +5,7 @@
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css"/>
+    <link rel="icon" href="icon-kerjasama.png"/>
   </head>
   <body>
     <header>
@@ -71,6 +72,12 @@
       function redirwhatsapp() {
         window.location.href = "https://wa.me/6285640165335"
       }
+       const FollowSayaLabel = document.querySelector('.pulse-animation');
+if (FollowSayaLabel) {
+setInterval(() => {
+    FollowSayaLabel.classList.toggle('opacity-70');
+}, 2000);
+}
     </script>
   </body>
 </html>
